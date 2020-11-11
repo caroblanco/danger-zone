@@ -63,8 +63,7 @@ object espia{
 	
 	method consecuenciaMision(mision,quien){
 		mision.enseniarHabilidades(quien)
-	}
-	
+	}	
 }
 
 class Oficinista{
